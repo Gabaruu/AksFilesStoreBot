@@ -44,7 +44,9 @@ This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.co
 ### Deploy Now:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/PyroFilesStoreBot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://render.com/deploy?template=https://github.com/Harsh0897kumar/AksFilesStoreBot)
+<a href="https://render.com/deploy?repo=https://github.com/Harsh0897kumar/AksFilesStoreBot">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 
 ## Commands:
 ```
